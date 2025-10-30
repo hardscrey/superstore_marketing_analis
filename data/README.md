@@ -1,5 +1,5 @@
-# Скачать файл Churn_Modelling.csv
-[Kaggle Dataset(сайт)]([https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)) / [Kaggle Dataset(github)](data/Sample - Superstore.csv)
+# Скачать файл Sample - Superstore.csv
+[Kaggle Dataset(сайт)]([https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)) / [Kaggle Dataset(github)](data/Sample-Superstore.csv)
 # Использовать выгрузку с kaggle(необходимо наличие токена):
     !pip install kaggle
     os.environ['KAGGLE_CONFIG_DIR'] = '/content/drive/MyDrive/kaggle'

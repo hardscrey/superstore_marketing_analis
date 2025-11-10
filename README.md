@@ -1,4 +1,4 @@
-# Superstore Marketing Analysis
+# superstore_marketing_analis
 
 **Цель проекта:**
 - Провести маркетинговый анализ продаж (категории, сезонность, KPI).

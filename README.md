@@ -67,7 +67,7 @@
 ### Распределение скидок:
 - Значительная часть заказов включает скидки, и их распределение по группам (Low, Medium, High, Very High) показывает, что скидки применяются на разных уровнях.
 
-![images/discount_group.png](https://raw.githubusercontent.com/hardscrey/superstore_marketing_analis/blob/main/images/discount_group.png)
+![images/discount_group.png](https://raw.githubusercontent.com/hardscrey/superstore_marketing_analis/raw/main/images/discount_group.png)
 
 ---
 
